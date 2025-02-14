@@ -1,0 +1,68 @@
+[
+  {
+    "category": "Doing the Right Thing with Robots!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "AI stands for Artificial Intelligence. It's when computers or machines are made to think like humans."
+  },
+  {
+    "category": "Ask Smart Questions Like a Super Detective!",
+    "question": "Can AI make decisions like humans?",
+    "options": [
+      "Yes, AI can make decisions by itself",
+      "No, humans must tell AI what to do",
+      "AI can help, but humans need to decide what’s best"
+    ],
+    "correct_answer": "AI can help, but humans need to decide what’s best",
+    "explanation": "AI can help with making decisions, but humans are still needed to guide and decide what is best."
+  },
+  {
+    "category": "Doing the Right Thing with Robots!",
+    "question": "Is it okay for AI to treat everyone the same?",
+    "options": [
+      "Yes, AI should treat everyone fairly and equally",
+      "No, AI can choose favorites",
+      "Only when it’s a special occasion"
+    ],
+    "correct_answer": "Yes, AI should treat everyone fairly and equally",
+    "explanation": "Yes, AI should treat everyone fairly and equally, ensuring it is unbiased and kind."
+  },
+  {
+    "category": "Ask Smart Questions Like a Super Detective!",
+    "question": "If an AI says something unkind, who should fix it?",
+    "options": [
+      "The AI itself should apologize",
+      "A person should teach the AI how to be kind",
+      "It’s not important if AI is unkind"
+    ],
+    "correct_answer": "A person should teach the AI how to be kind",
+    "explanation": "If AI says something unkind, it's important for a person to teach it how to behave properly and kindly."
+  },
+  {
+    "category": "Doing the Right Thing with Robots!",
+    "question": "What should we do if AI makes a mistake?",
+    "options": [
+      "Just ignore it",
+      "Ask the AI to try again",
+      "A person should help fix the mistake"
+    ],
+    "correct_answer": "A person should help fix the mistake",
+    "explanation": "If AI makes a mistake, a person should help to fix it and teach the AI how to improve."
+  },
+  {
+    "category": "Ask Smart Questions Like a Super Detective!",
+    "question": "If you ask an AI to do something bad, should it do it?",
+    "options": [
+      "Yes, because it’s following instructions",
+      "No, AI should never do something bad",
+      "It depends on how the AI feels"
+    ],
+    "correct_answer": "No, AI should never do something bad",
+    "explanation": "AI should not carry out harmful actions, no matter what instructions it receives."
+  }
+]

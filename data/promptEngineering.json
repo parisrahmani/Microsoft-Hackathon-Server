@@ -1,0 +1,57 @@
+[
+  {
+    "category": "What is a Prompt?",
+    "question": "What is a prompt?",
+    "options": [
+      "A question you ask to get information",
+      "A toy you play with",
+      "A snack you eat"
+    ],
+    "correct_answer": "A question you ask to get information",
+    "explanation": "A prompt is like a question you ask a computer to get an answer. For example, asking Siri, 'What’s the weather today?' is a prompt!"
+  },
+  {
+    "category": "Asking the Right Question",
+    "question": "If you want to know what a dog looks like, which prompt is best?",
+    "options": [
+      "Tell me about a dog.",
+      "Show me a dog.",
+      "What does a dog look like?"
+    ],
+    "correct_answer": "What does a dog look like?",
+    "explanation": "A good prompt is clear and helps the computer understand what you're asking. 'What does a dog look like?' gives a clear idea of the picture you want."
+  },
+  {
+    "category": "Improving Your Questions",
+    "question": "What should you do if the answer from a computer isn’t what you wanted?",
+    "options": [
+      "Say thank you and leave it",
+      "Ask the question again, but explain it better",
+      "Ignore it and try something else"
+    ],
+    "correct_answer": "Ask the question again, but explain it better",
+    "explanation": "Sometimes, we need to ask our questions more clearly to get the right answer."
+  },
+  {
+    "category": "Asking for Fun",
+    "question": "How can you get a computer to tell a joke?",
+    "options": [
+      "Ask it to make a funny noise",
+      "Say 'Tell me a joke'",
+      "Ask it to play music"
+    ],
+    "correct_answer": "Say 'Tell me a joke'",
+    "explanation": "If you want a joke, you need to ask for one! 'Tell me a joke' is a good prompt."
+  },
+  {
+    "category": "Asking for Instructions",
+    "question": "If you want to know how to make a paper airplane, what should you ask the computer?",
+    "options": [
+      "How do I make a paper airplane?",
+      "Tell me paper",
+      "Show me a plane"
+    ],
+    "correct_answer": "How do I make a paper airplane?",
+    "explanation": "A good prompt clearly says what you're asking for. 'How do I make a paper airplane?' tells the computer exactly what you want to know."
+  }
+]
