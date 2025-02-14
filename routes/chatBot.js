@@ -7,3 +7,4 @@ router.route("/chat-bot").get((req, res) => {
   res.json(chatData);
 });
 export default router;
+ 
