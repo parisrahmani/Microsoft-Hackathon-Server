@@ -8,10 +8,8 @@
       "Automated Information"
     ],
     "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
+    "explanation": "AI stands for Artificial Intelligence. It's when computers or machines are made to think like humans."
   },
-
   {
     "category": "Ask Smart Questions Like a Super Detective!",
     "question": "What does AI stand for?",
@@ -21,86 +19,7 @@
       "Automated Information"
     ],
     "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
-  },
-
-  {
-    "category": "Ask Smart Questions Like a Super Detective!",
-    "question": "What does AI stand for?",
-    "options": [
-      "Amazing Intelligence",
-      "Artificial Intelligence",
-      "Automated Information"
-    ],
-    "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
-  },
-
-  {
-    "category": "Doing the Right Thing with Robots!",
-    "question": "What does AI stand for?",
-    "options": [
-      "Amazing Intelligence",
-      "Artificial Intelligence",
-      "Automated Information"
-    ],
-    "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
-  },
-
-  {
-    "category": "Doing the Right Thing with Robots!",
-    "question": "What does AI stand for?",
-    "options": [
-      "Amazing Intelligence",
-      "Artificial Intelligence",
-      "Automated Information"
-    ],
-    "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
-  },
-
-  {
-    "category": "Ask Smart Questions Like a Super Detective!",
-    "question": "What does AI stand for?",
-    "options": [
-      "Amazing Intelligence",
-      "Artificial Intelligence",
-      "Automated Information"
-    ],
-    "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
-  },
-
-  {
-    "category": "Doing the Right Thing with Robots!",
-    "question": "What does AI stand for?",
-    "options": [
-      "Amazing Intelligence",
-      "Artificial Intelligence",
-      "Automated Information"
-    ],
-    "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
-  },
-
-  {
-    "category": "Ask Smart Questions Like a Super Detective!",
-    "question": "What does AI stand for?",
-    "options": [
-      "Amazing Intelligence",
-      "Artificial Intelligence",
-      "Automated Information"
-    ],
-    "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
+    "explanation": "AI stands for Artificial Intelligence. It's a technology that allows machines to learn and make decisions like humans!"
   },
   {
     "category": "Doing the Right Thing with Robots!",
@@ -111,10 +30,8 @@
       "Automated Information"
     ],
     "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
+    "explanation": "AI stands for Artificial Intelligence. It means creating machines that can think, learn, and solve problems on their own."
   },
-
   {
     "category": "Ask Smart Questions Like a Super Detective!",
     "question": "What does AI stand for?",
@@ -124,7 +41,72 @@
       "Automated Information"
     ],
     "correct_answer": "Artificial Intelligence",
-
-    "explanation": ""
+    "explanation": "AI stands for Artificial Intelligence, which is when machines are trained to think and act like humans."
+  },
+  {
+    "category": "Doing the Right Thing with Robots!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "AI means Artificial Intelligence, where machines can be designed to make decisions and learn by themselves."
+  },
+  {
+    "category": "Ask Smart Questions Like a Super Detective!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "Artificial Intelligence, or AI, is when computers or robots can be taught to think, solve problems, and make decisions like humans."
+  },
+  {
+    "category": "Doing the Right Thing with Robots!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "AI stands for Artificial Intelligence. It's the ability of a machine to imitate human behavior."
+  },
+  {
+    "category": "Ask Smart Questions Like a Super Detective!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "AI stands for Artificial Intelligence. It's the field where machines are designed to perform tasks that normally require human intelligence."
+  },
+  {
+    "category": "Doing the Right Thing with Robots!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "AI stands for Artificial Intelligence, which is when machines are programmed to solve problems and think like humans."
+  },
+  {
+    "category": "Ask Smart Questions Like a Super Detective!",
+    "question": "What does AI stand for?",
+    "options": [
+      "Amazing Intelligence",
+      "Artificial Intelligence",
+      "Automated Information"
+    ],
+    "correct_answer": "Artificial Intelligence",
+    "explanation": "AI means Artificial Intelligence, and it helps computers or machines learn and make decisions on their own."
   }
 ]

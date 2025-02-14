@@ -1,7 +1,8 @@
-import mqa from "../data/mqa.json";
-import express from  express;
+import mqaData from "../data/mqa.json" with { type: "json" };
+
+import express from "express";
 const router = express.Router();
-router.route("/mqa").get((req,res)=>{
-    res.json(mqa);
-})
+router.route("/mqa").get((req, res) => {
+  res.json(mqaData);
+});
 export default router;
