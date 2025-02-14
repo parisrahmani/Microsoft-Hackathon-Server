@@ -1,8 +1,23 @@
 [
   {
     "Sam": "What’s the answer to my homework?",
-    "Chatbot": "Ooh, I’m excited to help, Sam! :star_struck: But could you tell me what subject your homework is about? History? Spelling? Unicorns? :unicorn: That way, I can help you out faster! :rocket:",
-    "Pro Tip": "Next time, try asking like this: 'Hey, Chatbot! Can you help me solve this tricky math question about fractions?' That way, I can give you the best answer super fast! :rocket:"
+    "Chatbot": "Ooh, I’m excited to help, Sam! :star_struck: But could you tell me what subject your homework is about? History? Spelling? Unicorns? :unicorn:",
+    "Pro Tip": "Next time, try asking like this: 'Hey, Chatbot! Can you help me solve this tricky math question of 10+2x5?' That way, I can give you the best answer super fast!"
+  },
+  {
+    "Sam": "Hey, Chatbot! Can you help me solve this tricky math question of 10+2x5?",
+    "Chatbot": "For sure, Sam! So you want to use 2x5 first because multiplications come before additions, (unless it's in a bracket. What will it be?",
+    "Pro Tip": "You can do it step by step now!"
+  },
+  {
+    "Sam": "It's 10!",
+    "Chatbot": "Awesome. Now what is 10 + 10?",
+    "Pro Tip": "You can do it step by step now!"
+  },
+  {
+    "Sam": "20",
+    "Chatbot": "You got it, Sam! Let me know if you have more questions.",
+    "Pro Tip": "Good job!"
   },
   {
     "Sam": "Can you help me with my homework?",
